@@ -8,7 +8,7 @@ For everyone's benefit and convenience all the episodes on this channel are inde
   - formulated and
   - solved (in each episode)
 
-Find all the Season Guid files [here](https://github.com/RomanAndronov/theProbLemmaChannel/tree/main/SeasonGuides).
+Find all the Season Guide files [here](https://github.com/RomanAndronov/theProbLemmaChannel/tree/main/SeasonGuides).
 
 In addition, all the episodes on this channel that deal with evaluation of integrals, sums, products and limits are indexed as explained below:
 
