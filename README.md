@@ -17,4 +17,6 @@ In addition, all the episodes on this channel that deal with evaluation of integ
 - the [Products/plchproducts.pdf file](https://github.com/RomanAndronov/theProbLemmaChannel/blob/main/Products/plchproducts.pdf) indexes all the products, finite and infinite, that we evaluate on this channel
 - the [Sums/plchsums.pdf file](https://github.com/RomanAndronov/theProbLemmaChannel/blob/main/Sums/plchsums.pdf) indexes all the sums, finite and infinite, that we evaluate on this channel
 
+The supplementary materials to various [Courses offered by my channel are available here](https://github.com/RomanAndronov/theProbLemmaChannel/tree/main/Courses).
+
 The free supplementary materials to various episodes can be found in the [Aux directory](https://github.com/RomanAndronov/theProbLemmaChannel/tree/main/Aux): be curious, poke around.
