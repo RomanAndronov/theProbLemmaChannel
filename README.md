@@ -8,6 +8,8 @@ For everyone's benefit and convenience all the episodes on this channel are inde
   - formulated and
   - solved (in each episode)
 
+A brief but meaty answer to the question "**How do I use this channel?**" can be found [here](https://github.com/RomanAndronov/theProbLemmaChannel/blob/main/plchHowTo.pdf).
+
 Find all the Season Guide files [here](https://github.com/RomanAndronov/theProbLemmaChannel/tree/main/SeasonGuides).
 
 In addition, all the episodes on this channel that deal with evaluation of integrals, sums, products and limits are indexed as explained below:
