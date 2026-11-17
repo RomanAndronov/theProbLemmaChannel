@@ -63,11 +63,11 @@ main( int argc, char* argv[] )
 				{ 
 					if ( first != 1 ) 
 					{ 
-					printf( ", " ); 
+						printf( ", " ); 
 					} 
 					if ( first == 1 ) 
 					{ 
-					first = 0; 
+						first = 0; 
 					} 
 					printf( "%d", s ); 
 				} 
